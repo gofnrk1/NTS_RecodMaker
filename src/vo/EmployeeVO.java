@@ -7,8 +7,8 @@ package vo;
  */
 public class EmployeeVO {
 	//Field
-	private String empNumber;		//»ç¿ø¹øÈ£
-	private int score;				//¼ºÀû
+	private String empNumber;		//ì‚¬ì›ë²ˆí˜¸
+	private int score;				//ì„±ì 
 	
 	//Constructor
 	public EmployeeVO(String empNumber, int score) {
